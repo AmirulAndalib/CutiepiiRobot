@@ -2,7 +2,7 @@
 # Core Dependencies (install first)
 # ====================================
 # aiohttp and its dependencies must be installed first - required by many modules
-aiohttp==3.9.5
+aiohttp==3.14.4
 aiosignal>=1.1.2
 async-timeout>=4.0,<5.0
 attrs>=17.3.0
@@ -145,4 +145,4 @@ future>=1.0.0
 # Critical: Ensure aiohttp is installed
 # ====================================
 # aiohttp is required by the bot - ensure it's installed even if there are conflicts
-aiohttp==3.9.5
+aiohttp==3.14.4
